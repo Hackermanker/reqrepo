@@ -110,3 +110,12 @@ Aᴅᴅᴇᴅ Bʏ - {}"""
     LOG_TEXT_P = """#NewUser
 ID - <code>{}</code>
 Nᴀᴍᴇ - {}"""
+
+    
+    CAPTION = """
+<b>📂 Fɪʟᴇ ɴᴀᴍᴇ : </b> <code>{file_name}</code>
+<b>🧿 Fɪʟᴇ Sɪᴢᴇ : </b> <code>{file_size}</code>
+=========== • ✠ • ===========
+▫️ 𝙶𝚁𝙾𝚄𝙿 : <a href="https://t.me/https://t.me/Cinemathattakam_Group">『🔱』[CT™] 📽സിനിമ തട്ടകം...</a>
+▫️ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href="https://t.me/Colours_Movies">ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​</a>
+=========== • ✠ • ===========</b>"""
