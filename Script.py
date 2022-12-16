@@ -119,3 +119,15 @@ Nᴀᴍᴇ - {}"""
 ▫️ 𝙶𝚁𝙾𝚄𝙿 : <a href="https://t.me/https://t.me/Cinemathattakam_Group">『🔱』[CT™] 📽സിനിമ തട്ടകം...</a>
 ▫️ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻: <a href="https://t.me/Colours_Movies">ʀᴇǫᴜᴇsᴛ ᴍᴏᴠɪᴇs​</a>
 =========== • ✠ • ===========</b>"""
+    
+    IMDB_TEMPLATE_TXT = """
+<b>🎪 Tɪᴛʟᴇ : <a href={url}>{title}</a>
+🛸  Iɴғᴏ : {runtime} min | <a href={url}/releaseinfo>{year}</a>
+🎭 Gᴇɴʀᴇ : {genres}
+🌟 Rᴀᴛɪɴɢ : <a href={url}/ratings>{rating}</a> / 10 (based on {votes} user ratings.)
+🌍 Cᴏᴜɴᴛʀʏ : <code>{countries}</code>
+🎙 Lᴀɴɢᴜᴀɢᴇ : <code>{languages}</code>
+🎬 ️Dɪʀᴇᴄᴛᴏʀ : {director} 
+📚 ️Wʀɪᴛᴇʀs : {writer}
+🔹 Pᴏᴡᴇʀᴇᴅ Bʏ {message.chat.title} </b>
+    
