@@ -96,7 +96,7 @@ async def ForceSub(bot: Client, update: Message, file_id: str = False, mode="che
         else:
             return True
     except UserNotParticipant:
-        text="""**Please Join My Updates Channel to use this Bot!**"""
+        text="""*𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗖𝗛𝗔𝗡𝗡𝗘𝗟 𝗧𝗢 𝗚𝗘𝗧 𝗙𝗜𝗟𝗘, താങ്കൾ ഞങ്ങളുടെ ചാനലിൽ Join ചെയ്തിട്ടില്ല ദയവായി Request to Join press ചെയ്ത ശേഷം വീണ്ടും Try again-ൽ Click ചെയ്യുക**"""
 
         buttons = [
             [
