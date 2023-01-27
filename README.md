@@ -1,3 +1,6 @@
+## Deploy to Heroku 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/MrMKN/PROFESSOR-BOT)
 <p align="center">
   <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
