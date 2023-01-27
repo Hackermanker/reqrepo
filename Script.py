@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """👋 Hello {user},  Me :) {bot}, An Autofilter who can provide you movies in your groups"""
+    START_TXT = """👋 Hello {},  Me :) {bot}, An Autofilter who can provide you movies in your groups"""
     HELP_TXT = """<i>🙋🏻‍♂️ Here is my help menu"""
     ABOUT_TXT = """<b> My Name : {}
 🕵‍♂ Dᴇᴠᴏʟᴏᴘᴇʀ: <a href='https://t.me/Oriksonic'>Rogue</a>
