@@ -796,22 +796,6 @@ async def auto_filter(client, msg, spoll=False):
 
         await msg.message.delete()
     
-       
-            
-                  
-  
-
-
-            
-
-            
-
-
-
-       
-
-
-    
     if spoll:
         await msg.message.delete()
 
