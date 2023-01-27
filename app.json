@@ -68,7 +68,7 @@
             "required": false
         }
     },
-    "addons": [],
+    "addons": [eco],
     "buildpacks": [{
         "url": "heroku/python"
     }],
