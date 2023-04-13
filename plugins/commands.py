@@ -231,7 +231,7 @@ async def start(client, message):
         caption=f_caption,
         reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton("ᴊᴏɪɴ ɢʀᴏᴜᴘ", url="https://t.me/+cZQmduIduzwzZDY1"),
                                                InlineKeyboardButton("ꜱʜᴀʀᴇ", url="https://t.me/share/url?url=https://t.me/movies_channel_malayalam") ],
-                                             [ InlineKeyboardButton("ʙᴏᴛ ꜱᴜᴘᴘᴏʀᴛ", url="https://t.me/botsupportastra") ] ] ),
+                                             [ InlineKeyboardButton("ʙᴀᴄᴋᴜᴘ ɢʀᴏᴜᴘ", url="https://t.me/+9LAbiEtuS0U5OGU1") ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
